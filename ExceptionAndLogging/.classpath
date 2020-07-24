@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/diki9828/Downloads/lucene-8.5.1/lucene-8.5.1/luke/lib/log4j-api-2.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diki9828/Downloads/lucene-8.5.1/lucene-8.5.1/luke/lib/log4j-core-2.11.2.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
