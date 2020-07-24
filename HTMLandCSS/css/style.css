@@ -1,0 +1,57 @@
+
+.navbar
+{
+    background-color: rgba(21, 181, 202, 0.726);
+    height: 60px;
+    color: white;
+}
+#close
+{
+    color: white;
+  font-size: 30px;
+  margin-bottom: 70px;
+
+}
+#signin
+{
+ background-color:rgba(21, 181, 202, 0.726) ;
+ color: white;
+}
+#emailHelp1
+{
+
+  color: black;
+  text-decoration: none;
+}
+#emailHelp
+{
+    color: black;
+    text-decoration: none;
+}
+#facebook
+{
+    background-color: rgb(81, 112, 179);
+    color: white;
+
+}
+#google
+{
+    background-color: rgb(231, 119, 109);
+   color: white;
+}
+#epam
+{
+    background-color: rgba(216, 216, 25, 0.972);
+    color: white;
+    font-weight: 600;
+    margin-top: 60px;
+}
+@media screen and (max-width: 480px) {
+  #close
+  {
+      display: none;
+  }
+  
+  }
+
+
